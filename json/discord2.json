@@ -68,10 +68,6 @@
 		"googleapis.com",
 		"zendesk.com"
       ],
-       "process_name": [
-                    "Discord.exe",
-                    "DiscordCanary.exe"
-                ],
 	  "ip_cidr": [
                     "66.22.217.57/8",
                     "66.22.217.56/8",

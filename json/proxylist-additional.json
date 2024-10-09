@@ -19,11 +19,6 @@
            "azure.com",
            "bing.com",
            "akadns.net"
-      ],
-      "process_name": [
-           "start_protected_game.exe",
-           "TL.exe",
-           "nvngx_update.exe"
       ]
     }
   ]
