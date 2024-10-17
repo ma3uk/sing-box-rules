@@ -9,7 +9,8 @@
            "ytimg.com",
            "azure.com",
            "bing.com",
-           "akadns.net"
+           "akadns.net",
+		   "habr.com"
       ],
       "domain_suffix": [
            "youtube.com",
@@ -18,8 +19,18 @@
            "ytimg.com",
            "azure.com",
            "bing.com",
-           "akadns.net"
-      ]
+           "akadns.net",
+		   "habr.com",
+		   "amazongames.com",
+		   "aws.dev",
+		   "msftconnecttest.com"
+      ],
+	  "ip_cidr": [
+	  "54.242.234.125",
+	  "92.123.135.78",
+	  "74.125.250.129",
+	  "18.165.140.101"
+	  ]
     }
   ]
 }
