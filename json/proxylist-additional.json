@@ -10,7 +10,10 @@
            "azure.com",
            "bing.com",
            "akadns.net",
-		   "habr.com"
+		   "habr.com",
+		   "amazongames.com",
+		   "aws.dev",
+		   "ntc.party"
       ],
       "domain_suffix": [
            "youtube.com",
@@ -23,14 +26,8 @@
 		   "habr.com",
 		   "amazongames.com",
 		   "aws.dev",
-		   "msftconnecttest.com"
-      ],
-	  "ip_cidr": [
-	  "54.242.234.125",
-	  "92.123.135.78",
-	  "74.125.250.129",
-	  "18.165.140.101"
-	  ]
+		   "ntc.party"
+      ]
     }
   ]
 }
