@@ -16,7 +16,8 @@
 	   "games.aws.dev",
 	   "on.epicgames.com",
 	   "api.epicgames.dev",
-           "ntc.party"
+           "ntc.party",
+	   "vivox.com"
       ],
       "domain_suffix": [
            "youtube.com",
@@ -32,7 +33,8 @@
 	   "games.aws.dev",
 	   "on.epicgames.com",
 	   "api.epicgames.dev",
-           "ntc.party"
+           "ntc.party",
+	   "vivox.com"
       ]
     }
   ]
