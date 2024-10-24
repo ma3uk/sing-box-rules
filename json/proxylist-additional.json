@@ -10,10 +10,13 @@
            "azure.com",
            "bing.com",
            "akadns.net",
-		   "habr.com",
-		   "amazongames.com",
-		   "aws.dev",
-		   "ntc.party"
+	   "habr.com",
+	   "amazongames.com",
+	   "aws.dev",
+	   "games.aws.dev",
+	   "on.epicgames.com"
+	   "api.epicgames.dev",
+           "ntc.party"
       ],
       "domain_suffix": [
            "youtube.com",
@@ -23,10 +26,13 @@
            "azure.com",
            "bing.com",
            "akadns.net",
-		   "habr.com",
-		   "amazongames.com",
-		   "aws.dev",
-		   "ntc.party"
+	   "habr.com",
+	   "amazongames.com",
+	   "aws.dev",
+	   "games.aws.dev",
+	   "on.epicgames.com"
+	   "api.epicgames.dev",
+           "ntc.party"
       ]
     }
   ]
