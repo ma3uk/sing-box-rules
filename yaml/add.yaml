@@ -1,0 +1,9 @@
+payload:
+  - DOMAIN-SUFFIX,azure.com"
+  - DOMAIN-SUFFIX,bing.com"
+  - DOMAIN-SUFFIX,akadns.net"
+  - DOMAIN-SUFFIX,habr.com"
+  - DOMAIN-SUFFIX,amazongames.com"
+  - DOMAIN-SUFFIX,aws.dev"
+  - DOMAIN-SUFFIX,ntc.party"
+  - DOMAIN-SUFFIX,cloudflare-ech.com
