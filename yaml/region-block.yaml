@@ -32,7 +32,6 @@ payload:
   - DOMAIN-SUFFIX,dellcdn.com
   - DOMAIN-SUFFIX,artifacts.elastic.co
   - DOMAIN-SUFFIX,elastic.co
-  - DOMAIN-SUFFIX,epicgames.com
   - DOMAIN-SUFFIX,sites.fastspring.com
   - DOMAIN-SUFFIX,fastspring.com
   - DOMAIN-SUFFIX,furaffinity.net
