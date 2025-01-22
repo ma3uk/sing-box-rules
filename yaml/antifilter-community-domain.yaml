@@ -1,7 +1,7 @@
 payload:
   - DOMAIN-SUFFIX,10minutemail.com
   - DOMAIN-SUFFIX,1337x.to
-  - DOMAIN-SUFFIX,4pda.ru
+  - DOMAIN-SUFFIX,4pda.to
   - DOMAIN-SUFFIX,7tv.app
   - DOMAIN-SUFFIX,ab.chatgpt.com
   - DOMAIN-SUFFIX,abook-club.ru
@@ -31,6 +31,7 @@ payload:
   - DOMAIN-SUFFIX,api.themoviedb.org
   - DOMAIN-SUFFIX,api.twitter.com
   - DOMAIN-SUFFIX,aplawrence.com
+  - DOMAIN-SUFFIX,app.4pda.to
   - DOMAIN-SUFFIX,app.m3u.in
   - DOMAIN-SUFFIX,app.paraswap.io
   - DOMAIN-SUFFIX,app.zerossl.com
@@ -112,6 +113,7 @@ payload:
   - DOMAIN-SUFFIX,edgeservices.bing.com
   - DOMAIN-SUFFIX,ehorussia.com
   - DOMAIN-SUFFIX,ej.ru
+  - DOMAIN-SUFFIX,envato.com
   - DOMAIN-SUFFIX,etsy.com
   - DOMAIN-SUFFIX,euronews.com
   - DOMAIN-SUFFIX,event.on24.com
@@ -123,6 +125,7 @@ payload:
   - DOMAIN-SUFFIX,fex.net
   - DOMAIN-SUFFIX,files.oaiusercontent.com
   - DOMAIN-SUFFIX,firefly-ps.adobe.io
+  - DOMAIN-SUFFIX,flashscore.com
   - DOMAIN-SUFFIX,flibusta.is
   - DOMAIN-SUFFIX,fluke.com
   - DOMAIN-SUFFIX,fork.pet
@@ -171,6 +174,7 @@ payload:
   - DOMAIN-SUFFIX,kemono.party
   - DOMAIN-SUFFIX,kino.pub
   - DOMAIN-SUFFIX,kinobase.org
+  - DOMAIN-SUFFIX,kinogo.ec
   - DOMAIN-SUFFIX,kinokopilka.pro
   - DOMAIN-SUFFIX,kinovod.net
   - DOMAIN-SUFFIX,kinozal.me
@@ -212,6 +216,7 @@ payload:
   - DOMAIN-SUFFIX,myworld-portal.leica-geosystems.com
   - DOMAIN-SUFFIX,nasvsehtoshnit.ru
   - DOMAIN-SUFFIX,navalny.com
+  - DOMAIN-SUFFIX,netapp.com
   - DOMAIN-SUFFIX,netflix.com
   - DOMAIN-SUFFIX,news.google.com
   - DOMAIN-SUFFIX,newstudio.tv
@@ -231,6 +236,7 @@ payload:
   - DOMAIN-SUFFIX,onlinesim.ru
   - DOMAIN-SUFFIX,open.spotify.com
   - DOMAIN-SUFFIX,openwrt.wk.cz
+  - DOMAIN-SUFFIX,orbit-games.com
   - DOMAIN-SUFFIX,os.mbed.com
   - DOMAIN-SUFFIX,ovdinfo.org
   - DOMAIN-SUFFIX,packages.gitlab.com
@@ -294,10 +300,12 @@ payload:
   - DOMAIN-SUFFIX,semnasem.org
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,serpstat.com
+  - DOMAIN-SUFFIX,siemens-home.bsh-group.com
   - DOMAIN-SUFFIX,singlekey-id.com
   - DOMAIN-SUFFIX,skladchik.com
   - DOMAIN-SUFFIX,skyscanner.com
   - DOMAIN-SUFFIX,slideshare.net
+  - DOMAIN-SUFFIX,snapmagic.com
   - DOMAIN-SUFFIX,soapui.org
   - DOMAIN-SUFFIX,sobesednik.ru
   - DOMAIN-SUFFIX,software.cisco.com
@@ -399,6 +407,7 @@ payload:
   - DOMAIN-SUFFIX,www.wikiart.org
   - DOMAIN-SUFFIX,www.wunderground.com
   - DOMAIN-SUFFIX,x.com
+  - DOMAIN-SUFFIX,xerox.com
   - DOMAIN-SUFFIX,xhamster.com
   - DOMAIN-SUFFIX,xhamsterlive.com
   - DOMAIN-SUFFIX,xnxx.com
