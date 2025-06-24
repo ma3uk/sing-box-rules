@@ -7,3 +7,6 @@ payload:
   - DOMAIN-SUFFIX,aws.dev"
   - DOMAIN-SUFFIX,ntc.party"
   - DOMAIN-SUFFIX,cloudflare-ech.com
+  - DOMAIN-SUFFIX,notion.so
+  - DOMAIN-SUFFIX,cloudflare.com
+

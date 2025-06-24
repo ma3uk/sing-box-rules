@@ -234,4 +234,7 @@ payload:
   - DOMAIN-SUFFIX,zoosk.com
   - DOMAIN-SUFFIX,anilibria.top
   - DOMAIN-SUFFIX,prompthero.com
-  
+  - DOMAIN-SUFFIX,grok.com
+  - DOMAIN-SUFFIX,x.ai
+  - DOMAIN-SUFFIX,usher.ttvnw.net
+  - DOMAIN-SUFFIX,deepl.com

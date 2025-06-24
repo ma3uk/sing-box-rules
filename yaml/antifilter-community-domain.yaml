@@ -12,6 +12,7 @@ payload:
   - DOMAIN-SUFFIX,account.jetbrains.com
   - DOMAIN-SUFFIX,account.protonmail.com
   - DOMAIN-SUFFIX,accounts.spotify.com
+  - DOMAIN-SUFFIX,accounts.supercell.com
   - DOMAIN-SUFFIX,adguard.com
   - DOMAIN-SUFFIX,afcs.dellcdn.com
   - DOMAIN-SUFFIX,aftermarket.schaeffler.com
@@ -19,7 +20,9 @@ payload:
   - DOMAIN-SUFFIX,agents.media
   - DOMAIN-SUFFIX,agentura.ru
   - DOMAIN-SUFFIX,alberta.ca
+  - DOMAIN-SUFFIX,amnezia.org
   - DOMAIN-SUFFIX,anilibria.tv
+  - DOMAIN-SUFFIX,animestars.org
   - DOMAIN-SUFFIX,antizapret.prostovpn.org
   - DOMAIN-SUFFIX,api.app.prod.grazie.aws.intellij.net
   - DOMAIN-SUFFIX,api.github.com
@@ -32,6 +35,7 @@ payload:
   - DOMAIN-SUFFIX,api.twitter.com
   - DOMAIN-SUFFIX,aplawrence.com
   - DOMAIN-SUFFIX,app.4pda.to
+  - DOMAIN-SUFFIX,app.amplitude.com
   - DOMAIN-SUFFIX,app.m3u.in
   - DOMAIN-SUFFIX,app.paraswap.io
   - DOMAIN-SUFFIX,app.zerossl.com
@@ -39,6 +43,7 @@ payload:
   - DOMAIN-SUFFIX,apt.releases.hashicorp.com
   - DOMAIN-SUFFIX,aqicn.org
   - DOMAIN-SUFFIX,arc.intel.com
+  - DOMAIN-SUFFIX,arm.com
   - DOMAIN-SUFFIX,artifacts.elastic.co
   - DOMAIN-SUFFIX,atlassian.com
   - DOMAIN-SUFFIX,auth.grazie.ai
@@ -48,6 +53,7 @@ payload:
   - DOMAIN-SUFFIX,bbc.co.uk
   - DOMAIN-SUFFIX,bbc.com
   - DOMAIN-SUFFIX,bbci.co.uk
+  - DOMAIN-SUFFIX,bestchange.ru
   - DOMAIN-SUFFIX,bitbucket.org
   - DOMAIN-SUFFIX,bitcoin.org
   - DOMAIN-SUFFIX,bitru.org
@@ -55,6 +61,7 @@ payload:
   - DOMAIN-SUFFIX,boosteroid.com
   - DOMAIN-SUFFIX,bosch-home.com
   - DOMAIN-SUFFIX,bradyid.com
+  - DOMAIN-SUFFIX,broadcom.com
   - DOMAIN-SUFFIX,bt.t-ru.org
   - DOMAIN-SUFFIX,bt2.t-ru.org
   - DOMAIN-SUFFIX,bt3.t-ru.org
@@ -79,11 +86,15 @@ payload:
   - DOMAIN-SUFFIX,cloudflare-dns.com
   - DOMAIN-SUFFIX,colta.ru
   - DOMAIN-SUFFIX,community.cisco.com
+  - DOMAIN-SUFFIX,coomer.su
   - DOMAIN-SUFFIX,copilot-proxy.githubusercontent.com
   - DOMAIN-SUFFIX,crunchyroll.com
+  - DOMAIN-SUFFIX,cub.red
   - DOMAIN-SUFFIX,czx.to
   - DOMAIN-SUFFIX,d.docs.live.net
+  - DOMAIN-SUFFIX,data-cdn.mbamupdates.com
   - DOMAIN-SUFFIX,database.clamav.net
+  - DOMAIN-SUFFIX,deepl.com
   - DOMAIN-SUFFIX,deezer.com
   - DOMAIN-SUFFIX,dell.com
   - DOMAIN-SUFFIX,deviantart.com
@@ -103,6 +114,7 @@ payload:
   - DOMAIN-SUFFIX,documentation.meraki.com
   - DOMAIN-SUFFIX,download.jetbrains.com
   - DOMAIN-SUFFIX,download.lenovo.com
+  - DOMAIN-SUFFIX,download.qt.io
   - DOMAIN-SUFFIX,download.screamingfrog.co.uk
   - DOMAIN-SUFFIX,download.wetransfer.com
   - DOMAIN-SUFFIX,doxajournal.ru
@@ -115,6 +127,7 @@ payload:
   - DOMAIN-SUFFIX,ej.ru
   - DOMAIN-SUFFIX,envato.com
   - DOMAIN-SUFFIX,etsy.com
+  - DOMAIN-SUFFIX,eu-iot-prod.aws.tcljd.com
   - DOMAIN-SUFFIX,euronews.com
   - DOMAIN-SUFFIX,event.on24.com
   - DOMAIN-SUFFIX,exler.ru
@@ -137,6 +150,8 @@ payload:
   - DOMAIN-SUFFIX,gallery.zetalliance.org
   - DOMAIN-SUFFIX,game.brawlstarsgame.com
   - DOMAIN-SUFFIX,gateway.discord.gg
+  - DOMAIN-SUFFIX,geekyfuroshiki.com
+  - DOMAIN-SUFFIX,gemini.google.com
   - DOMAIN-SUFFIX,geni.us
   - DOMAIN-SUFFIX,genius.com
   - DOMAIN-SUFFIX,gitlab.io
@@ -147,13 +162,18 @@ payload:
   - DOMAIN-SUFFIX,gordonua.com
   - DOMAIN-SUFFIX,grammarly.com
   - DOMAIN-SUFFIX,grazie.ai
+  - DOMAIN-SUFFIX,grok.com
   - DOMAIN-SUFFIX,gulagu.net
   - DOMAIN-SUFFIX,habr.com
   - DOMAIN-SUFFIX,hd.zetfix.online
+  - DOMAIN-SUFFIX,hdkinoteatr.com
+  - DOMAIN-SUFFIX,hdrezka.fm
   - DOMAIN-SUFFIX,helm.releases.hashicorp.com
   - DOMAIN-SUFFIX,holod.global.ssl.fastly.net
   - DOMAIN-SUFFIX,holod.media
+  - DOMAIN-SUFFIX,honeywell.com
   - DOMAIN-SUFFIX,hyperhost.ua
+  - DOMAIN-SUFFIX,i.4pda.ws
   - DOMAIN-SUFFIX,ichef.bbci.co.uk
   - DOMAIN-SUFFIX,id.cisco.com
   - DOMAIN-SUFFIX,iichan.hk
@@ -224,9 +244,11 @@ payload:
   - DOMAIN-SUFFIX,nih.gov
   - DOMAIN-SUFFIX,nnmclub.to
   - DOMAIN-SUFFIX,nordvpn.com
+  - DOMAIN-SUFFIX,notepad-plus-plus.org
   - DOMAIN-SUFFIX,novayagazeta.eu
   - DOMAIN-SUFFIX,novayagazeta.ru
   - DOMAIN-SUFFIX,ntc.party
+  - DOMAIN-SUFFIX,nxp.com
   - DOMAIN-SUFFIX,nyaa.si
   - DOMAIN-SUFFIX,nyaa.tracker.wf
   - DOMAIN-SUFFIX,oaistatic.com
@@ -250,8 +272,11 @@ payload:
   - DOMAIN-SUFFIX,pbs.twimg.com
   - DOMAIN-SUFFIX,pcbway.com
   - DOMAIN-SUFFIX,pcbway.ru
+  - DOMAIN-SUFFIX,pepperl-fuchs.com
+  - DOMAIN-SUFFIX,phoenixcontact.com
   - DOMAIN-SUFFIX,php.su
   - DOMAIN-SUFFIX,piccy.info
+  - DOMAIN-SUFFIX,pixabay.com
   - DOMAIN-SUFFIX,pixiv.net
   - DOMAIN-SUFFIX,plab.site
   - DOMAIN-SUFFIX,platform.twitter.com
@@ -276,6 +301,8 @@ payload:
   - DOMAIN-SUFFIX,repo.mongodb.org
   - DOMAIN-SUFFIX,republic.ru
   - DOMAIN-SUFFIX,resp.app
+  - DOMAIN-SUFFIX,rezka.ag
+  - DOMAIN-SUFFIX,ridl.io
   - DOMAIN-SUFFIX,rpm.grafana.com
   - DOMAIN-SUFFIX,ru.bellingcat.com
   - DOMAIN-SUFFIX,ru.depositphotos.com
@@ -291,6 +318,7 @@ payload:
   - DOMAIN-SUFFIX,rutracker.org
   - DOMAIN-SUFFIX,rutracker.ru
   - DOMAIN-SUFFIX,s3-1.amazonaws.com
+  - DOMAIN-SUFFIX,saveeditonline.com
   - DOMAIN-SUFFIX,saverudata.info
   - DOMAIN-SUFFIX,scontent.cdninstagram.com
   - DOMAIN-SUFFIX,searchfloor.org
@@ -309,6 +337,7 @@ payload:
   - DOMAIN-SUFFIX,soapui.org
   - DOMAIN-SUFFIX,sobesednik.ru
   - DOMAIN-SUFFIX,software.cisco.com
+  - DOMAIN-SUFFIX,sora.com
   - DOMAIN-SUFFIX,soundcloud.com
   - DOMAIN-SUFFIX,spotify.com
   - DOMAIN-SUFFIX,st.kinovod.net
@@ -317,6 +346,7 @@ payload:
   - DOMAIN-SUFFIX,static.files.bbci.co.uk
   - DOMAIN-SUFFIX,static.rutracker.cc
   - DOMAIN-SUFFIX,status.discordapp.com
+  - DOMAIN-SUFFIX,store.supercell.com
   - DOMAIN-SUFFIX,strava.com
   - DOMAIN-SUFFIX,stulchik.net
   - DOMAIN-SUFFIX,support.cambiumnetworks.com
@@ -406,12 +436,16 @@ payload:
   - DOMAIN-SUFFIX,www.torproject.org
   - DOMAIN-SUFFIX,www.wikiart.org
   - DOMAIN-SUFFIX,www.wunderground.com
+  - DOMAIN-SUFFIX,x.ai
   - DOMAIN-SUFFIX,x.com
   - DOMAIN-SUFFIX,xerox.com
   - DOMAIN-SUFFIX,xhamster.com
   - DOMAIN-SUFFIX,xhamsterlive.com
   - DOMAIN-SUFFIX,xnxx.com
   - DOMAIN-SUFFIX,xvideos.com
+  - DOMAIN-SUFFIX,yeggi.com
+  - DOMAIN-SUFFIX,youtu.be
+  - DOMAIN-SUFFIX,yt3.googleusercontent.com
   - DOMAIN-SUFFIX,zetflix.online
   - DOMAIN-SUFFIX,znanija.com
   - DOMAIN-SUFFIX,zohomail.com
