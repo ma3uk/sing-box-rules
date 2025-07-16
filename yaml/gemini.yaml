@@ -1,0 +1,24 @@
+payload:
+  - DOMAIN-SUFFIX,deepmind.com
+  - DOMAIN-SUFFIX,deepmind.google
+  - DOMAIN-SUFFIX,geller-pa.googleapis.com
+  - DOMAIN-SUFFIX,generativelanguage.googleapis.com
+  - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+  - DOMAIN-SUFFIX,ai.google.dev
+  - DOMAIN-SUFFIX,alkalicore-pa.clients6.google.com
+  - DOMAIN-SUFFIX,alkalimakersuite-pa.clients6.google.com
+  - DOMAIN-SUFFIX,generativeai.google
+  - DOMAIN-SUFFIX,makersuite.google.com
+  - DOMAIN-SUFFIX,aistudio.google.com
+  - DOMAIN-SUFFIX,bard.google.com
+  - DOMAIN-SUFFIX,gemini.google
+  - DOMAIN-SUFFIX,gemini.google.com
+  #- IP-CIDR,64.233.0.0/16
+  #- IP-CIDR,64.233.180.0/24
+  #- IP-CIDR,142.250.74.0/24
+  #- IP-CIDR,142.250.181.0/24
+  #- IP-CIDR,142.250.185.0/24
+  #- IP-CIDR,142.250.186.0/24
+  #- IP-CIDR,142.250.201.0/24
+  #- IP-CIDR,172.217.16.0/24
+  #- IP-CIDR,172.217.18.0/24
