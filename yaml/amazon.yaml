@@ -65,3 +65,13 @@ payload:
   - DOMAIN-SUFFIX,amzndns.org
   - DOMAIN-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
   - DOMAIN-REGEX,.+\.amzndns\.(co\.uk|com|net|org)$
+  - IP-CIDR,3.0.0.0/10
+  - IP-CIDR,3.128.0.0/10
+  - IP-CIDR,3.192.0.0/10
+  - IP-CIDR,34.192.0.0/10
+  - IP-CIDR,3.64.0.0/10
+  - IP-CIDR,44.192.0.0/10
+  - IP-CIDR,44.224.0.0/11
+  - IP-CIDR,52.0.0.0/11
+  - IP-CIDR,52.32.0.0/11
+  - IP-CIDR,100.48.0.0/12
