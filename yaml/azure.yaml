@@ -153,6 +153,7 @@ payload:
   - DOMAIN-SUFFIX,azure-dns-10.cn
   - DOMAIN-REGEX,.+\.azure-dns-([1-9]|10)\.cn$
   - DOMAIN-REGEX,.+\.azchcdn[a-s]\.com$
+  - DOMAIN-SUFFIX,ip-api.com
   - IP-CIDR,102.133.0.0/18
   - IP-CIDR,102.133.112.0/28
   - IP-CIDR,102.133.120.0/21

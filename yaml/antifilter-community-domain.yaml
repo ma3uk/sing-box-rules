@@ -44,6 +44,7 @@ payload:
   - DOMAIN-SUFFIX,apt.releases.hashicorp.com
   - DOMAIN-SUFFIX,aqicn.org
   - DOMAIN-SUFFIX,arc.intel.com
+  - DOMAIN-SUFFIX,archiveofourown.org
   - DOMAIN-SUFFIX,arm.com
   - DOMAIN-SUFFIX,artifacts.elastic.co
   - DOMAIN-SUFFIX,atlassian.com
@@ -212,6 +213,7 @@ payload:
   - DOMAIN-SUFFIX,localbitcoins.com
   - DOMAIN-SUFFIX,login.amd.com
   - DOMAIN-SUFFIX,lostfilm.run
+  - DOMAIN-SUFFIX,lostfilm.today
   - DOMAIN-SUFFIX,lostfilm.tv
   - DOMAIN-SUFFIX,lostfilm.win
   - DOMAIN-SUFFIX,m.strava.com
@@ -228,6 +230,7 @@ payload:
   - DOMAIN-SUFFIX,medium.com
   - DOMAIN-SUFFIX,meduza.io
   - DOMAIN-SUFFIX,megapeer.ru
+  - DOMAIN-SUFFIX,melord.net
   - DOMAIN-SUFFIX,memohrc.org
   - DOMAIN-SUFFIX,metacritic.com
   - DOMAIN-SUFFIX,meteo.paraplan.net
@@ -250,6 +253,7 @@ payload:
   - DOMAIN-SUFFIX,notepad-plus-plus.org
   - DOMAIN-SUFFIX,novayagazeta.eu
   - DOMAIN-SUFFIX,novayagazeta.ru
+  - DOMAIN-SUFFIX,nsf.gov
   - DOMAIN-SUFFIX,ntc.party
   - DOMAIN-SUFFIX,nxp.com
   - DOMAIN-SUFFIX,nyaa.si
@@ -265,6 +269,7 @@ payload:
   - DOMAIN-SUFFIX,os.mbed.com
   - DOMAIN-SUFFIX,ovdinfo.org
   - DOMAIN-SUFFIX,packages.gitlab.com
+  - DOMAIN-SUFFIX,pages.dev
   - DOMAIN-SUFFIX,pandasecurity.com
   - DOMAIN-SUFFIX,paperpaper.ru
   - DOMAIN-SUFFIX,path3.xtracloud.net
@@ -399,6 +404,7 @@ payload:
   - DOMAIN-SUFFIX,vot-tak.tv
   - DOMAIN-SUFFIX,vrv.co
   - DOMAIN-SUFFIX,vyos.io
+  - DOMAIN-SUFFIX,vyos.net
   - DOMAIN-SUFFIX,watchguard.com
   - DOMAIN-SUFFIX,weather.com
   - DOMAIN-SUFFIX,weblance.com.ua

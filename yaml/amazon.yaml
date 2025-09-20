@@ -65,6 +65,7 @@ payload:
   - DOMAIN-SUFFIX,amzndns.org
   - DOMAIN-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
   - DOMAIN-REGEX,.+\.amzndns\.(co\.uk|com|net|org)$
+  - DOMAIN-SUFFIX,ip-api.com
   - IP-CIDR,3.0.0.0/10
   - IP-CIDR,3.128.0.0/10
   - IP-CIDR,3.192.0.0/10

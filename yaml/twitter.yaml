@@ -24,6 +24,7 @@ payload:
   - DOMAIN-SUFFIX,twvid.com
   - DOMAIN-SUFFIX,vine.co
   - DOMAIN-SUFFIX,x.com
+  - DOMAIN-SUFFIX,ip-api.com
   #- IP-CIDR,104.16.0.0/16
   #- IP-CIDR,104.244.40.0/24
   #- IP-CIDR,146.75.0.0/16

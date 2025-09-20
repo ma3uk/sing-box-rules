@@ -248,3 +248,4 @@ payload:
   - DOMAIN-SUFFIX,xscale.com
   - DOMAIN-SUFFIX,barefootnetworks.com
   - DOMAIN-KEYWORD,intel
+  - DOMAIN-SUFFIX,ip-api.com
