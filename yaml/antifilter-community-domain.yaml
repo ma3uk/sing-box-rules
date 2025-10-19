@@ -20,6 +20,7 @@ payload:
   - DOMAIN-SUFFIX,agents.media
   - DOMAIN-SUFFIX,agentura.ru
   - DOMAIN-SUFFIX,alberta.ca
+  - DOMAIN-SUFFIX,alphacoders.com
   - DOMAIN-SUFFIX,amnezia.org
   - DOMAIN-SUFFIX,anilibria.tv
   - DOMAIN-SUFFIX,animestars.org
@@ -290,6 +291,7 @@ payload:
   - DOMAIN-SUFFIX,platform.twitter.com
   - DOMAIN-SUFFIX,plugins.jetbrains.com
   - DOMAIN-SUFFIX,polit.ru
+  - DOMAIN-SUFFIX,pornhub.com
   - DOMAIN-SUFFIX,pornolab.net
   - DOMAIN-SUFFIX,portal.bgpmon.net
   - DOMAIN-SUFFIX,proekt.media
@@ -401,10 +403,13 @@ payload:
   - DOMAIN-SUFFIX,viber.com
   - DOMAIN-SUFFIX,video.twimg.com
   - DOMAIN-SUFFIX,vipdrive.net
+  - DOMAIN-SUFFIX,vndb.org
   - DOMAIN-SUFFIX,vot-tak.tv
   - DOMAIN-SUFFIX,vrv.co
   - DOMAIN-SUFFIX,vyos.io
   - DOMAIN-SUFFIX,vyos.net
+  - DOMAIN-SUFFIX,wall.alphacoders.com
+  - DOMAIN-SUFFIX,wallpapercave.com
   - DOMAIN-SUFFIX,watchguard.com
   - DOMAIN-SUFFIX,weather.com
   - DOMAIN-SUFFIX,weblance.com.ua
