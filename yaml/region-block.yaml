@@ -237,6 +237,7 @@ payload:
   - DOMAIN-SUFFIX,grok.com
   - DOMAIN-SUFFIX,x.ai
   - DOMAIN-SUFFIX,usher.ttvnw.net
+  - DOMAIN-SUFFIX,gql.twitch.tv
   - DOMAIN-SUFFIX,deepl.com
   - DOMAIN-SUFFIX,ip-api.com
   - DOMAIN-SUFFIX,deviantart.com
